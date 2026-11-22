@@ -48,6 +48,7 @@ Details and pricing at **[ilmic.co.uk](https://ilmic.co.uk)**.
 ### Open resources
 
 - 📘 **[ilmic-automation-playbook](https://github.com/ilmic-ltd/ilmic-automation-playbook)**: the patterns we use for lead pipelines, error handling, model routing and GDPR, free to reuse (MIT).
+- 🚨 **[n8n-error-handler](https://github.com/ilmic-ltd/n8n-error-handler)**: one n8n error workflow for all your automations. Logs to Notion, alerts on Telegram, removes personal data, groups repeats. Tested, English and Turkish guide.
 
 ### Stack
 
