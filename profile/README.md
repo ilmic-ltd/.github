@@ -8,9 +8,9 @@
 Consultancies · immigration and education firms · property · recruitment · accountants · clinics</p>
 
 <p align="center">
-  <a href="https://ilmic.co.uk"><img src="https://img.shields.io/badge/Website-ilmic.co.uk-0a1830?style=for-the-badge" alt="Website"/></a>
-  <a href="https://github.com/ilmic-ltd/ilmic-automation-playbook"><img src="https://img.shields.io/badge/Read-the%20playbook-1f6bff?style=for-the-badge" alt="Playbook"/></a>
-  <img src="https://img.shields.io/badge/Based%20in-London-34d8a0?style=for-the-badge" alt="London"/>
+  <a href="https://ilmic.co.uk"><img src="https://img.shields.io/badge/Website-ilmic.co.uk-1460B0?style=for-the-badge" alt="Website"/></a>
+  <a href="https://github.com/ilmic-ltd/ilmic-automation-playbook"><img src="https://img.shields.io/badge/Read-the%20playbook-169A68?style=for-the-badge" alt="Playbook"/></a>
+  <img src="https://img.shields.io/badge/Based%20in-London-0B1F3A?style=for-the-badge" alt="London"/>
 </p>
 
 ---
